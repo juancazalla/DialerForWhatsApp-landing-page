@@ -38,7 +38,7 @@ features                                  :
     description                           : Bye bye ghost contacts. You can write the number and send messages without saving it in your contacts. Voilá!
     fontawesome_icon_name                 : star
     
-  - title                                 : Add Your Predefined Messages
+  - title                                 : Predefined Messages
     description                           : Do you usually write the same messages? Save them and stop losing your time. 
     fontawesome_icon_name                 : list
 
