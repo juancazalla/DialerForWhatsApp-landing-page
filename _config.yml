@@ -34,15 +34,15 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Direct chat to WhatsApp
+  - title                                 : Direct Chat To WhatsApp
     description                           : Bye bye ghost contacts. You can write the number and send messages without saving it in your contacts. Voilá!
     fontawesome_icon_name                 : whatsapp
     
-  - title                                 : Add your predefined messages
-    description                           : Do you usually write the same message? Save it and use it whenever you want. 
+  - title                                 : Add Your Predefined Messages
+    description                           : Do you usually write the same messages? Save them and stop losing your time. 
     fontawesome_icon_name                 : list-ui
 
-  - title                                 : Chat to yourself
+  - title                                 : Chat To Yourself
     description                           : Save documents and private messages by texting yourself. That's magic!
     fontawesome_icon_name                 : magic
 
@@ -54,22 +54,10 @@ features                                  :
     description                           : Perfect for night usage, so the timer doesn't light up your room.
     fontawesome_icon_name                 : moon
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
+  - title                                 : Check Unknown Phone Numbers
+    description                           : Who called? Just copy the number, open Dialer for WhatsApp and navigate to the WhatsApp profile of unknown numbers.
+    fontawesome_icon_name                 : user-secret
+    
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
