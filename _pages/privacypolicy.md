@@ -15,7 +15,7 @@ This page is used to inform visitors regarding my policies with the collection, 
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-</br>
+<br>
 
 ## Information Collection and Use
 
