@@ -36,11 +36,11 @@ features                                  :
 
   - title                                 : Direct Chat To WhatsApp
     description                           : Bye bye ghost contacts. You can write the number and send messages without saving it in your contacts. Voilá!
-    fontawesome_icon_name                 : whatsapp
+    fontawesome_icon_name                 : star
     
   - title                                 : Add Your Predefined Messages
     description                           : Do you usually write the same messages? Save them and stop losing your time. 
-    fontawesome_icon_name                 : list-ui
+    fontawesome_icon_name                 : list
 
   - title                                 : Chat To Yourself
     description                           : Save documents and private messages by texting yourself. That's magic!
@@ -57,7 +57,7 @@ features                                  :
   - title                                 : Check Unknown Phone Numbers
     description                           : Who called? Just copy the number, open Dialer for WhatsApp and navigate to the WhatsApp profile of unknown numbers.
     fontawesome_icon_name                 : user-secret
-    
+
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
