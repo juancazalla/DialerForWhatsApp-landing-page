@@ -30,6 +30,7 @@ Link to privacy policy of third party service providers used by the app:
 - [Apple CloudKit](https://www.apple.com/privacy/features/)
 - [Firebase Google Analytics](https://firebase.google.com/policies/analytics)
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+- [Google Admob](https://developers.google.com/admob/ios/data-disclosure)
 
 
 ## Log Data
