@@ -5,67 +5,102 @@ include_in_header: true
 ---
 
 **Last updated**  
-October 14 2020
+August 7, 2026
 
 # Privacy Policy
 
-Juan Cazalla built the Dialer for WhatsApp app as a free app. This SERVICE is provided by Juan Cazalla at no cost and is intended for use as is.
+Juan Cazalla Estrella ("we", "us") provides Dialer for WhatsApp for Android and iOS. This policy explains what data the app handles, why it is handled, and the choices available to you.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Dialer for WhatsApp is an independent application and is not affiliated with, sponsored by, or endorsed by WhatsApp LLC or Meta Platforms, Inc.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. I will not use or share your information with anyone except as described in this Privacy Policy.
+## Data you enter or share with the app
 
-<br>
+The app can process phone numbers, optional message text, quick-message templates, and contact cards that you explicitly share with it. It does not request access to your contact list or call history.
 
-## Information Collection and Use
+Phone numbers and messages are processed on your device to prepare a WhatsApp or WhatsApp Business link. When you choose to continue, the selected phone number and optional message are transferred to the WhatsApp application you selected and are then governed by WhatsApp's privacy policy.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+On Android, quick messages, recent numbers, and preferences are stored locally on the device and are excluded from Android cloud backup and device transfer. You can delete quick messages and recent entries in the app; uninstalling the app removes its remaining local data.
 
-Personal Content. Your predefined messages are not saved on our servers nor do we have access to this data. This data is saved as human-readable text files locally on your iOS device and, in case you are using the iCloud function of the application, synchronized with your personal iCloud CloudKit database (Apple service). iCloud CloudKit syncs it between your devices automatically. You always have the option to disable iCloud from the system settings.
+On iOS, app content may be stored locally and synchronized through your private Apple iCloud/CloudKit account when iCloud is available. You can control iCloud from the system settings and delete app content from the app or your Apple account.
 
-The app does use third party services that may collect information used to identify you.
+The app does not send phone numbers, contact-card contents, or message text to Firebase Analytics, RevenueCat, or advertising analytics.
 
-Link to privacy policy of third party service providers used by the app:
+## Analytics and remote configuration
 
-- [Apple CloudKit](https://www.apple.com/privacy/features/)
-- [Firebase Google Analytics](https://firebase.google.com/policies/analytics)
-- [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-- [Google Admob](https://developers.google.com/admob/ios/data-disclosure)
+We use Firebase Analytics to understand feature usage, purchase outcomes, ad events, app version, device characteristics, and technical performance. Logged app events do not include the phone number or message content you enter.
 
+On Android, Analytics collection starts disabled. In regions where Google's consent flow applies, it is enabled only when the consent state permits it. You can revisit the available choices from **Settings > Privacy Options**. Firebase may process device or app-instance identifiers, approximate location derived from a masked IP address, app interactions, and purchase-related events according to Google's documentation.
 
-## Log Data
+Firebase Remote Config supplies operational settings such as ad frequency and interface behavior. It may use a Firebase installation identifier and app/device information, but the app does not send your entered phone numbers or message text to Remote Config.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+The iOS app also uses Firebase Crashlytics for crash and diagnostic reporting. Crash reports can include device and operating-system information, app state, timestamps, and diagnostic details.
 
-## Cookies
+## Advertising and consent
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.
+The free version uses Google AdMob, including interstitial and rewarded interstitial ads. Google Mobile Ads may process IP-derived approximate location, advertising or app-set identifiers, ad interactions, and diagnostic information for advertising, measurement, fraud prevention, security, and compliance.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Google's User Messaging Platform (UMP) is used where applicable to request and store privacy choices. Ads are requested only when UMP indicates that they may be requested. The availability of personalized ads depends on your region, settings, age eligibility, and consent choices.
 
-## Service Providers
+Rewarded ads are optional. The app explains the reward before the ad and provides a way to decline it. A reward is applied only when the advertising SDK confirms that the ad was completed.
 
-I may employ third-party companies and individuals due to the following reasons:
+## Subscriptions and purchases
 
-- To facilitate our Service;
-- To provide the Service on our behalf;
-- To perform Service-related services; or
-- To assist us in analyzing how our Service is used.
+Subscriptions are processed by Google Play on Android and Apple on iOS. We use RevenueCat to manage product offerings, purchase history, anonymous customer identifiers, subscription status, and access to premium features. We do not receive or store your full payment-card details.
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Free-trial eligibility, billing, renewals, cancellation, refunds, and payment information are managed by the applicable app store. You can manage or cancel a subscription from your Google Play or Apple account settings.
 
-## Links to Other Sites
+## Other platform services
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+The app can open external applications and websites, including WhatsApp, WhatsApp Business, Google Play, the Apple App Store, and email or social links. Information you choose to send to those services is governed by their policies.
 
-## Children’s Privacy
+The app may invoke the platform's in-app review interface. Ratings and review text are handled by Google Play or Apple; the app does not receive the text you submit through that interface.
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+## Service providers
 
-## Changes to This Privacy Policy
+The app uses the following providers:
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+- [Google Firebase privacy and security](https://firebase.google.com/support/privacy)
+- [Google AdMob and advertising privacy](https://policies.google.com/privacy)
+- [RevenueCat privacy policy](https://www.revenuecat.com/privacy)
+- [Google Play privacy policy](https://policies.google.com/privacy)
+- [Apple privacy policy](https://www.apple.com/legal/privacy/)
+- [WhatsApp privacy policy](https://www.whatsapp.com/legal/privacy-policy)
 
-## Contact Us
+These providers process information under their own terms and may process it in countries other than your own. We use their services for app functionality, subscription management, analytics, advertising, diagnostics, security, and legal compliance.
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+## Retention and deletion
+
+Local Android data remains until you delete it in the app, clear the app's storage, or uninstall the app. iOS data may remain in your iCloud account until removed there. Third-party providers retain analytics, advertising, diagnostic, consent, and purchase records according to their own retention policies and legal obligations.
+
+The app does not create a Dialer for WhatsApp account, so there is no separate account-deletion process. For questions or requests concerning data controlled directly by us, contact us at the address below. Store purchase records and data held by third-party providers must be managed through the corresponding provider.
+
+## Your choices and rights
+
+Depending on your location, you may have rights to access, correct, delete, restrict, or object to processing of personal data, or to withdraw consent. You can:
+
+- Change available consent choices from **Settings > Privacy Options** on Android.
+- Reset or limit advertising identifiers from your device settings.
+- Delete messages and recent entries in the app.
+- Clear app storage or uninstall the app.
+- Manage iCloud synchronization from Apple settings.
+- Manage subscriptions from Google Play or Apple.
+- Contact us about a privacy request.
+
+## Children's privacy
+
+The app is not directed to children under 13, and we do not knowingly collect personal information directly from children under 13. If you believe a child has provided personal information to us, contact us so we can investigate and take appropriate action. Store and advertising age requirements may impose additional restrictions.
+
+## Security
+
+We use platform storage protections, limit app permissions, and rely on established service providers. No method of storage or transmission is completely secure, so absolute security cannot be guaranteed.
+
+## Changes to this policy
+
+We may update this policy when the app, its providers, or legal requirements change. The revised date at the top identifies the latest version. Material changes become effective when the updated policy is published here.
+
+## Contact
+
+For privacy questions or requests, contact:
+
+**Juan Cazalla Estrella**
+[cazallasquared@gmail.com](mailto:cazallasquared@gmail.com)
