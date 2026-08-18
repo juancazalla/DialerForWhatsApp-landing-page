@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**
-August 7, 2026
+August 18, 2026
 
 # Terms of Use
 
@@ -21,7 +21,7 @@ You must not use the app for spam, harassment, fraud, unlawful communications, i
 
 ## Children and family use
 
-The Android app supports a mixed-age audience. It asks for a date of birth without a preselected value and stores that date only on the device so it can apply the appropriate privacy mode. Users under 18 receive the protected experience: ads, analytics, RevenueCat, subscription paywalls, and commercial premium prompts are not activated or shown. A parent or guardian should supervise a child's use where required by local law and should also review the terms and privacy practices of WhatsApp before the child chooses to open it.
+The app is a general-audience utility and is not specifically designed or marketed for children. It does not ask for a date of birth. A parent or guardian should supervise a child's use where required by local law and should also review the terms and privacy practices of WhatsApp before the child chooses to open it.
 
 ## Subscriptions and purchases
 
@@ -33,7 +33,7 @@ Purchases, renewals, cancellations, refunds, and eligibility for introductory of
 
 ## Advertising
 
-The free version may display advertising to eligible adult users. Android protected mode does not display advertising. A rewarded advertisement is optional and grants the benefit described in the app only after the advertising provider confirms that the reward was earned. Closing or skipping the advertisement may result in no reward.
+The free version may display advertising when the applicable consent state permits it. A rewarded advertisement is optional and grants the benefit described in the app only after the advertising provider confirms that the reward was earned. Closing or skipping the advertisement may result in no reward.
 
 ## Availability and changes
 

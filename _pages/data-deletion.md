@@ -5,11 +5,11 @@ include_in_header: false
 ---
 
 **Last updated**
-August 7, 2026
+August 18, 2026
 
 # Dialer for WhatsApp data deletion
 
-Dialer for WhatsApp does not create a developer account for you. Phone numbers, recent entries, quick messages, app preferences, and the Android neutral age screen's date of birth are stored locally on your device; we cannot access or remotely delete that local content.
+Dialer for WhatsApp does not create a developer account for you. Phone numbers, recent entries, quick messages, and app preferences are stored locally on your device; we cannot access or remotely delete that local content.
 
 ## Delete data from your device
 
