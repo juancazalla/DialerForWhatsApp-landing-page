@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-August 18, 2026
+August 28, 2026
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@ On Android, quick messages, recent numbers, and preferences are stored locally o
 
 On iOS, app content may be stored locally and synchronized through your private Apple iCloud/CloudKit account when iCloud is available. You can control iCloud from the system settings and delete app content from the app or your Apple account.
 
-The app does not send phone numbers, contact-card contents, or message text to Firebase Analytics, RevenueCat, or advertising analytics.
+The app does not send phone numbers, contact-card contents, or message text to Firebase Analytics, Firebase Crashlytics, RevenueCat, or advertising analytics.
 
 ## Analytics and remote configuration
 
@@ -33,7 +33,7 @@ On Android, Analytics collection starts disabled and is enabled only when the ap
 
 Firebase Remote Config supplies operational settings such as ad frequency and interface behavior on Android. It may use a Firebase installation identifier and app/device information, but the app does not send your entered phone numbers or message text to Remote Config.
 
-The iOS app also uses Firebase Crashlytics for crash and diagnostic reporting. Crash reports can include device and operating-system information, app state, timestamps, and diagnostic details.
+The Android and iOS apps use Firebase Crashlytics for crash, non-fatal error, ANR, and diagnostic reporting. Reports can include stack traces, device and operating-system information, relevant app state, app version, timestamps, a Crashlytics installation identifier, and diagnostic details. Crashlytics is used for operational reliability and security and is independent of advertising choices and Analytics consent. We do not attach phone numbers, contact-card contents, message text, email addresses, or payment-card details to these reports.
 
 ## Advertising and consent
 
