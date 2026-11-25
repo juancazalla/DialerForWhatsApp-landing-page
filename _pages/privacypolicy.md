@@ -1,17 +1,17 @@
 ---
-layout: page
+layout: legal
 title: Privacy Policy
 include_in_header: true
 ---
 
 **Last updated**  
-August 28, 2026
+November 25, 2026
 
 # Privacy Policy
 
-Juan Cazalla Estrella ("we", "us") provides Dialer for WhatsApp for Android and iOS. This policy explains what data the app handles, why it is handled, and the choices available to you.
+Juan Cazalla Estrella ("we", "us") provides Direct Dialer for Android and a companion iOS app. This policy explains what data the app handles, why it is handled, and the choices available to you.
 
-Dialer for WhatsApp is an independent application and is not affiliated with, sponsored by, or endorsed by WhatsApp LLC or Meta Platforms, Inc.
+Our apps are independently developed and are not affiliated with, sponsored by, or endorsed by WhatsApp LLC or Meta Platforms, Inc.
 
 ## Data you enter or share with the app
 
@@ -72,7 +72,7 @@ These providers process information under their own terms and may process it in 
 
 Local Android data remains until you delete it in the app where a deletion control is available, clear the app's storage, or uninstall the app. iOS data may remain in your iCloud account until removed there. Third-party providers retain analytics, advertising, diagnostic, consent, and purchase records according to their own retention policies and legal obligations.
 
-The app does not create a Dialer for WhatsApp account, so there is no separate account-deletion process. For questions or requests concerning data controlled directly by us, contact us at the address below. Store purchase records and data held by third-party providers must be managed through the corresponding provider.
+The app does not create a developer-managed account, so there is no separate account-deletion process. For questions or requests concerning data controlled directly by us, contact us at the address below. Store purchase records and data held by third-party providers must be managed through the corresponding provider.
 
 ## Your choices and rights
 

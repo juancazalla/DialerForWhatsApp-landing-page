@@ -1,25 +1,25 @@
 ---
-layout: page
+layout: legal
 title: Data Deletion
 include_in_header: false
 ---
 
 **Last updated**
-August 18, 2026
+November 25, 2026
 
-# Dialer for WhatsApp data deletion
+# App data deletion
 
-Dialer for WhatsApp does not create a developer account for you. Phone numbers, recent entries, quick messages, and app preferences are stored locally on your device; we cannot access or remotely delete that local content.
+Direct Dialer for Android and our companion iOS app do not create a developer account for you. Phone numbers, recent entries, quick messages, and app preferences are stored locally on your device; we cannot access or remotely delete that local content.
 
 ## Delete data from your device
 
-You can delete individual quick messages and recent entries from inside the app. To delete all remaining local Android data, clear Dialer for WhatsApp storage in Android Settings or uninstall the app. Local data is removed immediately by Android when app storage is cleared or the app is uninstalled.
+You can delete individual quick messages and recent entries from inside the app. To delete all remaining local Android data, clear Direct Dialer storage in Android Settings or uninstall the app. Local data is removed immediately by Android when app storage is cleared or the app is uninstalled.
 
 ## Request deletion of data handled by us
 
 To request deletion of data that we directly control:
 
-1. Email [cazallasquared@gmail.com](mailto:cazallasquared@gmail.com) with the subject **Dialer for WhatsApp data deletion request**.
+1. Email [cazallasquared@gmail.com](mailto:cazallasquared@gmail.com) with the subject **App data deletion request**.
 2. State whether you use Android or iOS and describe the data or support interaction you want deleted.
 3. Do not send phone numbers, message content, payment-card details, or passwords. We may ask for limited information needed to locate the relevant record.
 
@@ -31,4 +31,4 @@ Google Play, Apple, RevenueCat, Firebase, and Google AdMob may retain purchase, 
 
 Deleting the app does not cancel a subscription. Manage or cancel subscriptions through Google Play or your Apple account before deleting the app if required.
 
-For more information, see the [Dialer for WhatsApp Privacy Policy](/DialerForWhatsApp-landing-page/privacypolicy/).
+For more information, see the [Privacy Policy](/DialerForWhatsApp-landing-page/privacypolicy/).

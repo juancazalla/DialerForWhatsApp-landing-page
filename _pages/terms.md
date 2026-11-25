@@ -1,17 +1,17 @@
 ---
-layout: page
+layout: legal
 title: Terms of Use
 include_in_header: false
 ---
 
 **Last updated**
-August 18, 2026
+November 25, 2026
 
 # Terms of Use
 
-These Terms of Use apply to Dialer for WhatsApp for Android and iOS, provided by Juan Cazalla Estrella ("we", "us"). By downloading or using the app, you agree to these terms. If you do not agree, do not use the app.
+These Terms of Use apply to Direct Dialer for Android and our companion iOS app, provided by Juan Cazalla Estrella ("we", "us"). By downloading or using the app, you agree to these terms. If you do not agree, do not use the app.
 
-Dialer for WhatsApp is an independent application and is not affiliated with, sponsored by, or endorsed by WhatsApp LLC or Meta Platforms, Inc. WhatsApp and WhatsApp Business are third-party services governed by their own terms and policies.
+Our apps are independently developed and are not affiliated with, sponsored by, or endorsed by WhatsApp LLC or Meta Platforms, Inc. WhatsApp and WhatsApp Business are third-party services governed by their own terms and policies.
 
 ## The service
 
