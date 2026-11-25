@@ -1,11 +1,11 @@
 ---
-layout: legal
+layout: page
 title: Privacy Policy
 include_in_header: true
 ---
 
 **Last updated**  
-November 25, 2026
+August 28, 2026
 
 # Privacy Policy
 

@@ -1,11 +1,11 @@
 ---
-layout: legal
+layout: page
 title: Data Deletion
 include_in_header: false
 ---
 
 **Last updated**
-November 25, 2026
+August 18, 2026
 
 # App data deletion
 
