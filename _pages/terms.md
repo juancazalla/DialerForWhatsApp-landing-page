@@ -49,7 +49,7 @@ To the extent permitted by law, the app is provided "as is" and "as available". 
 
 ## Privacy
 
-Our [Privacy Policy](/privacypolicy/) explains how the app handles information and the choices available to you.
+Our [Privacy Policy]({{ '/privacypolicy/' | relative_url }}) explains how the app handles information and the choices available to you.
 
 ## Changes to these terms
 
